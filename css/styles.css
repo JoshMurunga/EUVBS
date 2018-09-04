@@ -1,0 +1,183 @@
+/*homepage design
+*/
+#body{
+    background-color: #99ff99;
+}
+#logo{
+    height: 125px;
+    width: 125px;
+    float: left;
+    padding-right:10px;
+    border-radius:15px;
+}
+.loginpage{
+    width: 450px;
+    height: 400px;
+    background-color:#ccffcc;
+    border-radius: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 100px;
+    padding-left: 80px;
+    padding-top: 20px;
+    
+}
+#title{
+    font-family: sans-serif;
+    font-size: 30px;
+    float: left;
+}
+#register{
+    font-family: sans-serif;
+}
+
+/*
+SignUp Page design
+*/
+
+.signup{
+   background-color:#ccffcc;
+   font-family: sans-serif;
+   text-align: center;
+   height:400px ;
+   width:450px;
+   padding-top: 30px;
+   border-radius: 10px;
+   alignment-adjust: central;
+   margin-left: 20%;
+   margin-right: 20%;
+}
+.alert{
+   font-family: fantasy;
+   color: red;
+    
+}
+#info{
+    text-decoration: #ff0033;
+    font-family: fantasy;
+    color:red;
+}
+
+<!--Admin Page Design -->
+#body{
+    background-color:#99ff99;
+}
+.head{
+    font-family: fantasy;
+    font-size: 50px;
+    text-align: center;
+    background-color: green;
+}
+
+#paragraph{
+    font-family: sans-serif;
+}
+.tasks{
+    font-size: 30px;
+    
+    margin-left: 20%;
+    margin-right: 20%;
+    
+    
+}
+#bookings{
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+}
+select{
+    height: 30px;
+    border-radius:5px;
+    width:200px;
+}
+
+option{
+    height:200px;
+    height: 500px;
+}
+#submit{
+    height: 30px;
+    width: 30px;
+    color: green;
+   border-radius: 5px;
+}
+input[type=submit]{
+    border-radius: 5px;
+    height:30px;
+}
+input{
+    border-radius:5px;
+}
+#message{
+    font-size:20px;
+    font-family: cursive;
+    text-decoration: #ff0033;
+    font-style: italic;
+    color: #ff0033;
+}
+#logout{
+    float: right;
+    height: 50px;
+    margin-right: 0px;
+    color:red;
+    text-decoration: #cc0033;
+}
+/*vehicleInfo page design*/
+.delete{
+    color:red;
+}
+.edit{
+    color:#33ff00;
+}
+.vehicleheader{
+    float: top;
+    font-size: 50px;
+}
+.table{
+    float: left;
+    color: solid black;
+}
+
+#addvehicle{
+    float: right;
+    text-align: right;
+    background-color: #ccffcc;
+    font-size: 30px;
+    border-radius:5px;
+}
+input[type=text]{
+    height:20px;
+    width: 200px;
+}
+input[type=password]{
+    height: 20px;
+    width:200px;
+}
+#addV{
+    float:right;
+    color:green;
+}
+#input{
+    text-align: left;
+    float: left;
+}
+#vehicleheader{
+    float: left;
+}
+#add{
+    text-align: center;
+    font-family: monospace;
+    font-style:italic;
+    text-decoration: underline;
+    color: #006666;
+}
+#deleteButton{
+    color:white;
+    font-family: sans-serif;
+    background-color: black;
+    border-radius: 5px;
+}
+.tableCols{
+    color:black;
+    text-decoration: #ccffcc;
+}

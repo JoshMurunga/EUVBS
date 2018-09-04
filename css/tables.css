@@ -1,0 +1,23 @@
+table {
+    border-collapse: collapse;
+	width: 150%;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th {
+    height: 30px;
+	background-color: green;
+    color: white;
+}
+
+td {
+    height: 40px;
+	text-align: center;
+} 
+
+.table tr:nth-child(even){
+	background: #ccffcc
+}
